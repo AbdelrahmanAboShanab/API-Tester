@@ -11,4 +11,17 @@
 ## see all posts button open activity that retreive all data from sqlitedatabase using Cursor loader
 ![22](https://user-images.githubusercontent.com/34136265/171528820-1fce783a-ce72-4480-8e20-d8a01b53f95f.jpg)
 
+###1. Enter URL to connect to       ✓
 
+###2. Add request headers which numbers are dynamic     ✓
+
+###3. App must support GET/POST     ✓
+####  a. For POST request type, App must provide a way to enter request body as string    ✓
+
+###4. After request completion the app needs to display the following:      ✓
+###   a. Response code                   ✓                                             
+###   b. Error if any                   ✓
+###   c. Request/Response headers             ✓
+###   d. Request body or query parameters depending on request type/Response body       ✓
+
+###5. If the device is offline then app must show an error message and do not make the call       ✓
