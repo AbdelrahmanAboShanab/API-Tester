@@ -16,12 +16,12 @@
 ### 2. Add request headers which numbers are dynamic     ✓
 
 ### 3. App must support GET/POST     ✓
-####  a. For POST request type, App must provide a way to enter request body as string    ✓
+####     a. For POST request type, App must provide a way to enter request body as string    ✓
 
 ### 4. After request completion the app needs to display the following:      ✓
-###   a. Response code                   ✓                                             
-###   b. Error if any                   ✓
-###   c. Request/Response headers             ✓
-###   d. Request body or query parameters depending on request type/Response body       ✓
+###      a. Response code                   ✓                                             
+###      b. Error if any                   ✓
+###      c. Request/Response headers             ✓
+###      d. Request body or query parameters depending on request type/Response body       ✓
 
 ### 5. If the device is offline then app must show an error message and do not make the call       ✓
