@@ -10,3 +10,5 @@
 
 ## see all posts button open activity that retreive all data from sqlitedatabase using Cursor loader
 ![22](https://user-images.githubusercontent.com/34136265/171528820-1fce783a-ce72-4480-8e20-d8a01b53f95f.jpg)
+
+
